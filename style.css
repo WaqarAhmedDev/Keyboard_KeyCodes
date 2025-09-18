@@ -1,0 +1,13 @@
+button.top{
+  background: linear-gradient(to right,red,blue);
+  color: white;
+  display: block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+button.top:hover {
+    transition:background 0.3s;
+}
